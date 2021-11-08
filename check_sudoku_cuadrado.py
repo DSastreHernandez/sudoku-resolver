@@ -1,4 +1,4 @@
-# Este programa checkea que los sudokus senos cuadrados
+# Este programa checkea que los sudokus son cuadrados
 
 def check_sudoku_cuadrado(sudoku):
     for element in sudoku:
