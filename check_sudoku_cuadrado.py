@@ -1,3 +1,5 @@
+# Este programa checkea que los sudokus senos cuadrados
+
 def check_sudoku_cuadrado(sudoku):
     for element in sudoku:
         if len(element) != len(sudoku):
