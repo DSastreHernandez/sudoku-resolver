@@ -5,7 +5,7 @@ def check_rows_in_sudoku(sudoku):
                 return False
     return True
 
-
+#parte del código que no se va a ejecutar
 if __name__ == '__main__':
     assert check_rows_in_sudoku([[1, 2, 3],
                                  [2, 3, 1],
