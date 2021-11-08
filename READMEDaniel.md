@@ -10,16 +10,5 @@ https://user-images.githubusercontent.com/91556389/140807467-48b1ede3-6b66-4e71-
 https://user-images.githubusercontent.com/91556389/140807555-07c245d4-723e-4568-84a6-ddd04993451a.mp4
 
 ## Y por ultimo lo subimos a la rama principal cuando este acabado
-![video](video_docu_dani.mp4)
-
-
-
-
-
-
-
-
-
-
-
+https://user-images.githubusercontent.com/91556389/140809983-7b9c3209-dd3b-4279-8319-798825b82ba4.mp4
 
