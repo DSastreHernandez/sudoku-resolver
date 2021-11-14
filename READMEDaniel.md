@@ -12,3 +12,5 @@ https://user-images.githubusercontent.com/91556389/140807555-07c245d4-723e-4568-
 ## Y por ultimo lo subimos a la rama principal cuando este acabado
 https://user-images.githubusercontent.com/91556389/140809983-7b9c3209-dd3b-4279-8319-798825b82ba4.mp4
 
+Daniel Sastre Hernandez
+
